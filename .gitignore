@@ -1,0 +1,15 @@
+# Python junk (temporary files your computer makes)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files (often too big for GitHub)
+*.mat
+
+# System files (junk from Mac or Windows)
+.DS_Store
+Thumbs.db
+
+# IDE/Editor files
+.vscode/
+.idea/
